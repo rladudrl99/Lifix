@@ -1,7 +1,11 @@
 # Lifix
+
+
 by team Apl+
 
-개발기간: 2023.10.01 ~ 
+made with Flutter
+
+개발기간: 2023.10.01 ~ (진행 중)
 
 #프로젝트 소개
 
